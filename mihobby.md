@@ -1,4 +1,4 @@
-#videojuegos
+# videojuegos
 1. diversion:Lo que mas me gusta de los videojuegos es descubrir nuevos tipos de juegos, mi nivel de habilidad es relativamente bueno.si, es un hobby practican personas de diferentes generos.
 2. familia:lo descubri de pequeño cuando mi primo primera enseño a jugar al minecraft. yo solo participe de un evento que se hizo en la plata sobre videojuegos hechos en la argentina, pero me gustaria poder ir a eventos como la gamescom y el E3. tambien participo en comunidades de reddit.
 3. amigos:Si, constantemente estoy compartiendo informacion con varios amigos. comunmente lo hago por a traves de reddit y la experiencia fue agradable.
