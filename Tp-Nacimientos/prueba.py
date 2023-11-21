@@ -20,6 +20,3 @@ nac_madre_menor_20 = nacimientos[["edad_madre_grupo","nacimientos_cantidad"]]
 nac_madre_menor_20["edad_madre_grupo"].unique()
 torta = nac_madre_menor_20.groupby("edad_madre_grupo")["nacimientos_cantidad"].count().plot(kind='pie')
 torta.figure
-#nac_madre_menor_20 = nac_madre_menor_20.drop(nac_madre_menor_20[nac_madre_menor_20['edad_madre_grupo'] == "Sin especificar"].index)
-#nac_madre_menor_20 = nac_madre_menor_20.groupby(
- #                       (nac_madre_menor_20.edad_madre_grupo == " Menor de 15"))
